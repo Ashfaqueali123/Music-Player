@@ -1,7 +1,7 @@
 # Music-Player
 This project deepened my understanding of frontend architecture by using HTML, CSS, and JAVASCRIPT.
 
-🧱 2. HTML
+🧱 1. HTML
 Defines the structure of the music player:
 
 <audio> tag to load/play music
@@ -17,7 +17,7 @@ Artist name
 Album art
 
 
-🎨 1. CSS (Cascading Style Sheets)
+🎨 2. CSS (Cascading Style Sheets)
 Responsible for styling the player:
 
 Layout (flexbox/grid)
